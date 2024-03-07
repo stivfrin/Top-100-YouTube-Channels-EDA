@@ -1,2 +1,8 @@
 # Top-100-YouTube-Channels-EDA
-In this project, I conducted an exploratory data analysis by examining the dataset "Top 100 YouTube Channels".
+В этой работе я изучил датасет "Top 100 YouTube Channels", проанализировав его по категориям и авторам, а также визуализировал полученные данные.
+
+Чтобы ознакомиться скачайте репозиторий git clone git@github.com:stivfrin/Top-100-YouTube-Channels-EDA.git
+
+Перейдите в директорию src.
+
+Откройте с помощью удобного для вас редактора.
